@@ -48,4 +48,6 @@ The project provided deep insights into the financial landscape of real estate c
 ---
 
 To Access the project follow the link below.
-[Link to Project 2]([https://github.com/Shahad-Busaidi/Udacity-Data-Fundamental-Nanodegree/tree/main/Project%201](https://github.com/Shahad-Busaidi/Udacity-Data-Fundamental-Nanodegree/tree/main/Project%202))
+
+[Link to Project 2](https://github.com/Shahad-Busaidi/Udacity-Data-Fundamental-Nanodegree/tree/main/Project%202)
+
