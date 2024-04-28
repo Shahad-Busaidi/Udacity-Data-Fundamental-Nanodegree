@@ -1,4 +1,9 @@
-## Project 1: Insights from Data - Madrid in Detail
+# Data Fundamentals Nanodegree Project 1 Summary
+
+This repository contains a summary of the first project completed as part of the Data Fundamentals Nanodegree program by Udacity.
+
+## Project 1: : Interpret a Data Visualisation (Madrid in detail)
+
 
 ### Project Overview
 
